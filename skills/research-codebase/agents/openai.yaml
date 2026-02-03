@@ -1,0 +1,4 @@
+interface:
+  display_name: "Research Codebase"
+  short_description: "Investigate repos, architecture, and flows"
+  default_prompt: "Use -codebase to research and document the codebase."
