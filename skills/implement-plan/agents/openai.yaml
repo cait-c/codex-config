@@ -1,0 +1,4 @@
+interface:
+  display_name: "Implement Plan"
+  short_description: "Execute implementation plans with phase gates"
+  default_prompt: "Implement the provided technical plan phase by phase with verification and explicit confirmation between phases."
